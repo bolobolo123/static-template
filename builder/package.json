@@ -1,0 +1,32 @@
+{
+  "name": "builder-static-website",
+  "version": "1.0.0",
+  "description": "scripts to build statics websites",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joZephhh/static-template.git"
+  },
+  "keywords": [
+    "builder",
+    "front-end",
+    "website",
+    "apps"
+  ],
+  "author": "Joseph Quercia & Antoine Moues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joZephhh/static-template/issues"
+  },
+  "homepage": "https://github.com/joZephhh/static-template",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1"
+  }
+}
